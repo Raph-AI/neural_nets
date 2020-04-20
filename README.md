@@ -6,3 +6,7 @@ Nous y présentons quelques méthodes d’apprentissage profond. Nous abordons l
 
 ## Mots-clés.
 Apprentissage profond, Apprentissage supervisé, Apprentissage non-supervisé, Perceptron multi-couches, Méthode de la rétro-propagation, Estimateur universel, Régularisation, Carte de Kohonen (Carte auto-adaptative, Self-organizing maps), Machine de Boltzmann restreinte, Divergence Contrastive, Réseaux convolutionnels, classification, vision artificielle, TensorFlow.
+
+## Fichiers
+ • MIGNOT_rapport_RN.pdf : le rapport
+ • MIGNOT_pres_rapport_RN.pdf : une présentation succincte du rapport (sous forme de slides)
