@@ -12,4 +12,4 @@ Apprentissage profond, Apprentissage supervisé, Apprentissage non-supervisé, P
  
  • MIGNOT_pres_rapport_RN.pdf : une présentation succincte du rapport (sous forme de slides)
  
- ![Sommaire du rapport](contents_rn.png)
+ ![Sommaire du rapport](readme_images/contents_rn.png)
