@@ -1,4 +1,4 @@
-# Projet sur différentes méthodes de réseaux de neurones
+# Projet de réseaux de neurones (dans le cadre du M2)
 
 Ce rapport a été rédigé dans le cadre du cours de "Réseaux de neurones" du Master 2 \textit{Ingénierie Statistique et Data Science} de l’Institut de Statistique de l’Université de Paris (ISUP), école rattachée au département de sciences de Sorbonne Université (https://www.sorbonne-universite.fr/). Ce cours a été enseigné par Annick Valibouze de janvier à mars 2020.
     
